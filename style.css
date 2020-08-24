@@ -7,7 +7,7 @@ html{
     background: transparent; /* make scrollbar transparent */
 }
 body{
-    margin: 0;
+    margin: 1;
     text-align: center;
 }
 ul {
