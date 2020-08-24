@@ -48,12 +48,12 @@ li a:hover:not(.active) {
   width: 500px;
 }
 
-.content{
+.sect{
     margin-left: 10%;
     margin-right: 10%;
-    text-align: left;
 }
 
-.content p{
-    text-indent: 25px;
+.sect h3{
+    text-decoration: underline;
 }
+

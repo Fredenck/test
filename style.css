@@ -1,3 +1,7 @@
+html{
+    background-color: darkgray;
+    overflow: hidden;
+}
 body{
     margin: 0;
     text-align: center;
